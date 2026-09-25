@@ -59,7 +59,7 @@ Dataiku DSS (data preparation, modeling, evaluation, clustering) · Python · St
 
 ## Video Walkthrough
 
-🎥 [Watch the full walkthrough](#) — a slide-by-slide narration covering the business case, Dataiku pipeline, model results, and limitations.(https://youtu.be/eSagg3uVORQ)
+🎥 [Watch the full walkthrough](https://youtu.be/eSagg3uVORQ) — a slide-by-slide narration covering the business case, Dataiku pipeline, model results, and limitations.
 The full narration script used to record it is included in `presentation/Video_Narration_Script.docx`.
 
 ## Repository Contents
