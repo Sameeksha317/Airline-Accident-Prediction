@@ -1,6 +1,6 @@
 # Aviation Accident Analysis: Severity Prediction & Risk Profiling
 
-End-to-end data science project built in **Dataiku**, applying the full AI/ML lifecycle to a 3,000-record aviation accident dataset — from data preparation through model deployment — to predict accident severity, predict survivor location, and cluster accidents into risk profiles.
+End-to-end data science project built in **Dataiku**, applying the full AI/ML lifecycle to a 3,000-record aviation accident dataset; from data preparation through model deployment, to predict accident severity, predict survivor location, and cluster accidents into risk profiles - includes full video walkthrough.
 
 ## Business Context
 
