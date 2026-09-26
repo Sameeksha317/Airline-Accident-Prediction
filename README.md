@@ -68,7 +68,6 @@ Dataiku DSS (data preparation, modeling, evaluation, clustering) · Python · St
 - `data/airline_accident_dataset.csv` — source dataset (3,000 rows)
 - `docs/data_dictionary.docx` — field definitions
 - `presentation/Aviation_Accident_AI_Lifecycle_Sameeksha_Mathur.pptx` — full project write-up: domain research, methodology, visualizations, model results, limitations, and conclusions
-- `presentation/Video_Narration_Script.docx` — narration script for the video walkthrough
 
 ## Author
 
